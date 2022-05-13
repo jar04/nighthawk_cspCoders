@@ -1,27 +1,20 @@
-# GitHub Activity
-### <a href="https://github.com/nighthawkcoders/nighthawk_csp/graphs/contributors" target="_blank">CSP Repo Insights</a>
-<table>
-  <tr>
-    <th>User Activity</th>
-    <th>Profile</th>
-    <th>Issues</th>
-    <th>Commits</th>
-  </tr>
-  <tr>
-    <td>John Mortensen</td>
-    <td><a href="https://github.com/jm1021" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/nighthawkcoders/nighthawk_csp/issues?q=assignee%3Ajm1021" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/nighthawkcoders/nighthawk_csp/commits?author=jm1021" target="_blank">Commits</a></td>
-  </tr>
-</table>
+<!-- {% include navbar.html %}
+ -->
+# About
 
+## Project Theme
 
-# About Nighthawk Coding Society
-WebSite [ {{ site.webserver }} ]({{ site.webserver }})
+Welcome to the n22p5-coders! Our sponsor is going to be Nighthawks Track and Field. We will make a website for their program. It will have a sign up page allowing people interested in track to sign up, as well as a schedule page and a page showing individuals' statistics. We will also have a page with all the events in track and field. This page will have buttons leading to additional pages with descriptions and pictures of the event. Another page that we will incorporate into our website is a pace conversion page. This will be really helpful to those that are participating in running. Finally, we will include a training log which will log the statistics of each person during each practice.
 
-Email [ {{ site.email }} ](mailto:{{ site.email }})
+<a href="wireframes">Here is a link to our wireframes</a>
 
-Twitter [ {{ site.twitter }} ]({{ site.twitter }})
+Connor - github admin
+
+Jacob - scrum master
+
+Leo - deployment manager
+
+Stanley - primary designer
 
 
 
